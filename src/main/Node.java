@@ -30,7 +30,7 @@ public class Node {
         this.next=null;
     }
 
-    public Node(Node next, int data) {
+    public Node(int data, Node next) {
         this.next = next;
         this.data=data;
     }
