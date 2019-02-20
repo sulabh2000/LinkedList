@@ -39,5 +39,7 @@ public class MyLinkedList {
         MyLinkedList linkedlist = new MyLinkedList();
         Node node= new Node(10,null);
 
+
+
     }
 }
