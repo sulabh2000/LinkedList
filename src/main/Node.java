@@ -2,7 +2,7 @@ package main;
 
 public class Node {
         private int data;
-
+        private Node next;
     public int getData() {
         return data;
     }
